@@ -10,7 +10,7 @@
 
 >> Program promt for move, after that user can given comma seperated co-ordinate value as cell address. And press ***Enter***.
 >   <html>
->      <img src='images/image1.png'>
+>      <img src='image1.png'>
 >   </html>
 
 > program will auto exit when after final result given.
